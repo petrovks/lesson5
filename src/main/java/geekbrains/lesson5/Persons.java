@@ -57,7 +57,6 @@ public class Persons {
         this.post = post;
     }
 
-
     public Persons(String name, String post, String email, String phoneNumber, int salary, int age) {
         this.name = name;
         this.post = post;
